@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model href="prod.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<prods>
+    <prod id="P1">
+        <name>Apple IPhone 11</name>
+        <price>500</price>
+        <quantity>10</quantity>
+        <category>Electronics</category>
+    </prod>
+    <prod id="P2">
+        <name>Atomic Habits</name>
+        <price>30</price>
+        <quantity>60</quantity>
+        <category>Books</category>
+    </prod>
+    <prod id="P3">
+        <name>Hoodie_MTV_ColourBlock</name>
+        <price>150</price>
+        <quantity>5</quantity>
+        <category>Clothing</category>
+    </prod>
+    <prod id="P4">
+        <name>Leo_The_Lion_Tshirt</name>
+        <price>50</price>
+        <quantity>20</quantity>
+        <category>Clothing</category>
+    </prod>
+</prods>
